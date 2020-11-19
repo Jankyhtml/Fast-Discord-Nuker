@@ -9,7 +9,7 @@ After your done downloading it go to cmd type
 
 go get github.com/bwmarrin/discordgo
 
-go get github.com/urfave/cli/v2```
+go get github.com/urfave/cli/v2
 
 Made by Xyatt#6392
 
