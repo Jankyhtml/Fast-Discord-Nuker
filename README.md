@@ -1,5 +1,12 @@
 # Fast-Discord-Nuker
 
+Download golang https://golang.org/
+After your done downloading it go to cmd type
+
+go get github.com/bwmarrin/discordgo
+
+go get github.com/urfave/cli/v2
+
 Made by Xyatt#6392
 
 First you would need to scrape the members so go to "cmd" type python scrap.py then put your token go to the server put any word like "hi" then all id in members.json
