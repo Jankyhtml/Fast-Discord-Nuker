@@ -33,7 +33,7 @@ channel delete
 channel create
 kick members
 role delete
-role create```
+role create
 
 Thanks for using my nuker make sure to credit me
 cya
