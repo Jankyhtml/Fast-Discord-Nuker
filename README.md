@@ -13,7 +13,7 @@ go get github.com/urfave/cli/v2```
 
 Made by Xyatt#6392
 
-```First you would need to scrape the members so go to "cmd" type python scrap.py then put your token go to the server put any word like "hi" then all id in members.json
+First you would need to scrape the members so go to "cmd" type python scrap.py then put your token go to the server put any word like "hi" then all id in members.json
 
 then go back to "cmd" type 
 go run . -t "token" -m ".nuke" -f "members.json"
@@ -27,7 +27,7 @@ Me nuking a server with it
 ![github](https://cdn.discordapp.com/attachments/778786994763071489/779008313962004540/ezgif-1-b80ece187aca.gif)
 
 ## Features Coming up
-```updates in future coming soon
+updates in future coming soon
 gui
 channel delete
 channel create
