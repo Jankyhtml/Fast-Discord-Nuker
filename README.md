@@ -20,7 +20,7 @@ go run . -t "token" -m ".nuke" -f "members.json"
 
 example 
 
-"go run . -t "Nzc2OTYxMzIyMTgwODA0NjQ5.X68fnw.bQQqztP0H3cae7U__f5HzUKrqeI" -m ".wizz" -f "members.json"" ```
+"go run . -t "Nzc2OTYxMzIyMTgwODA0NjQ5.X68fnw.bQQqztP0H3cae7U__f5HzUKrqeI" -m ".wizz" -f "members.json"" 
 
 
 Me nuking a server with it
