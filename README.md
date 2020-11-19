@@ -1,4 +1,7 @@
 # Fast-Discord-Nuker
+join for support and help 
+https://discord.gg/2Pw6u72UQu
+
 beta release version for my discord nuker
 
 basically lets you nuke a server if your a admin.
